@@ -1,0 +1,30 @@
+{
+  "name": "prettybot",
+  "version": "1.0.0",
+  "description": "Prettier tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "js": "node js.js",
+    "json": "node json.js",
+    "scss": "node scss.js",
+    "css": "node css.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgehrman/prettyBot.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Steve Gehrman",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/sgehrman/prettyBot/issues"
+  },
+  "homepage": "https://github.com/sgehrman/prettyBot#readme",
+  "dependencies": {
+    "prettier": "1.17.0"
+  }
+}
