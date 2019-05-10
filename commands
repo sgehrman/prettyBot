@@ -1,0 +1,3 @@
+prettier --config ./prettierConfig --write 'src/**/*.js'
+
+prettier --config ./prettierConfig --debug-check 'src/**/*.js'
