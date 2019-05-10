@@ -1,23 +1,46 @@
-## Runs Prettier on files using the config file 'config.js'
+## Runs Prettier on files in a directory
 
 To configure the path where prettier will be run, see 'utils.js'
 
-### \$ npm run js
+To configure the prettier config, see 'config.js'
 
-> pretties all .js files
+### Getting Started
 
-### \$ npm run css
+First clone the repo.
 
-> pretties all .css files
+```
+$ cd prettyBot
+$ npm install
+```
 
-### \$ npm run scss
+### Run one of these command:
 
-> pretties all .scss files
+```
+$ npm run js
+```
 
-### \$ npm run json
+pretties all .js files
 
-> pretties all .json files
+```
+$ npm run css
+```
 
-### \$ npm start
+pretties all .css files
 
-> pretties all above
+```
+$ npm run scss
+```
+
+pretties all .scss files
+
+```
+$ npm run json
+```
+
+pretties all .json files
+
+```
+$ npm start
+```
+
+pretties all above
