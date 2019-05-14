@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/sgehrman/prettyBot#readme",
   "dependencies": {
-    "prettier": "1.17.0"
+    "prettier": "1.17.1"
   }
 }
