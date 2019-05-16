@@ -4,7 +4,7 @@ module.exports = {
   // "bracketSpacing": false,
   // "trailingComma": "es5",
   jsxBracketSameLine: true,
-  printWidth: 400,
+  printWidth: 200,
   singleQuote: true,
   arrowParens: 'always',
   jsxSingleQuote: true
